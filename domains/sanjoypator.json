@@ -5,7 +5,7 @@
           "username": "SanjoyPator1",
           "email": "sanjoypator1@gmail.com"
     },
-    "record": {
+    "records": {
           "CNAME": "cname.vercel-dns.com"
     }
 }
